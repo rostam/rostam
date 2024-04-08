@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rostam&hide_progress=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=rostam&type=png)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=rostam&type=png)
 <!--
 **rostam/rostam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
