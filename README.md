@@ -2,9 +2,6 @@
 
 **Senior Data Scientist & Algorithm Engineer** at Vodafone · Graph theory researcher · Open-source developer
 
-I work at the intersection of **combinatorial optimization**, **graph algorithms**, and **big data**. My PhD (FSU Jena, 2016) was on combining graph coloring with automatic differentiation for scientific computing.
-
----
 
 ### 🔭 What I'm working on
 
